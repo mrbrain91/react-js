@@ -68,5 +68,4 @@ EmployeesAddForm.onLog();
 
 console.log(EmployeesAddForm.logged);
 
-
 export default EmployeesAddForm;
